@@ -1,0 +1,24 @@
+
+form div {
+    padding: 10px;
+}
+
+form div label {
+    padding-right: 15px;
+    display: flex;
+
+}
+
+form div input {
+    width: 50%;
+}
+
+form div textarea {
+    width: 50%;
+    height: 80px;
+}
+
+form button {
+    border-radius: 6px;
+    margin: 10px;
+}
